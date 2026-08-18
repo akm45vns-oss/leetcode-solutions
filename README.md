@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
