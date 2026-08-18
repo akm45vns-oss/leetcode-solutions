@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
