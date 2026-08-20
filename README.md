@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
