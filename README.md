@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -122,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
