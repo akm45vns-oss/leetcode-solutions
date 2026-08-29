@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
