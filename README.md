@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
