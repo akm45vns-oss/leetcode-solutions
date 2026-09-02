@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -142,7 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
