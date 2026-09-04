@@ -7,10 +7,10 @@ public:
                 if(nums[i]+nums[j]==target && i!=j){
                     ans[0]=i;
                     ans[1]=j;
-                    return ans;
+                    break;
                 }
             }
-        }
-  return ans;
+     }
+return ans;
     }
 };
