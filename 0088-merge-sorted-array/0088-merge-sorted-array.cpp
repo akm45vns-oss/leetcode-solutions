@@ -9,8 +9,7 @@ public:
         }
          for(int j=0;j<n;j++){
             merge[c]=nums2[j];
-            c++;
-                
+            c++;   
             }
         sort(merge.begin(), merge.end());
         for (int i = 0; i < m + n; i++) {
