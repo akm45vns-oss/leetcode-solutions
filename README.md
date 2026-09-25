@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -181,9 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
