@@ -1,7 +1,6 @@
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
-        vector<int>a;
         int sum=0;
         for(int i=0;i<nums.size();i++){
             int c=0;
@@ -11,11 +10,8 @@ public:
                 }
             }
             if(c==1){
-                a.push_back(nums[i]);
+                 sum+=nums[i];
             }
-        }
-        for(int i=0;i<a.size();i++){
-            sum+=a[i];
         }
     return sum;
     }
