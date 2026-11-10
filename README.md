@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -237,9 +239,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
