@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Enumeration
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Interactive
 |  |
 | ------- |
