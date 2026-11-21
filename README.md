@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akm45vns-oss/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
